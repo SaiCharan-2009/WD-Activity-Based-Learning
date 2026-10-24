@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="css-1.css">
+</head>
+<body>
+    <div class="header">
+        <h1>My Portfolio</h1>
+        <p>Welcome to my website</p>
+    </div>
+
+    <h2>About Me</h2>
+    <p>My name is Sai Charan. I am a first year engineering student.</p>
+
+    <h2>Education</h2>
+    <p>Course: B.Tech</p>
+    <p>Branch: CSE</p>
+    <p>College: Dr. RVR & Dr. SR Institute of Technology</p>
+
+    <h2>My Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>Python</li>
+        <li>Computer Basics</li>
+    </ul>
+
+    <h2>My Hobbies</h2>
+    <ol>
+        <li>Listening to music</li>
+        <li>Playing games</li>
+        <li>Learning new things</li>
+    </ol>
+</body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Spice Hut Restaurant</title>
+    <link rel="stylesheet" href="css-3.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Spice Hut</h1>
+        <p>Good Food, Good Mood!</p>
+    </div>
+
+    <h2>About Us</h2>
+    <p>Welcome to Spice Hut. We serve tasty food at affordable prices.</p>
+
+    <h2>Our Menu</h2>
+    <table>
+        <tr>
+            <th>Food Item</th>
+            <th>Price</th>
+            <th>Availability</th>
+        </tr>
+        <tr>
+            <td>Veg Biryani</td>
+            <td>Rs. 120</td>
+            <td>Available</td>
+        </tr>
+        <tr>
+            <td>Chicken Biryani</td>
+            <td>Rs. 180</td>
+            <td>Available</td>
+        </tr>
+        <tr>
+            <td>Masala Dosa</td>
+            <td>Rs. 60</td>
+            <td>Available</td>
+        </tr>
+        <tr>
+            <td>Ice Cream</td>
+            <td>Rs. 50</td>
+            <td>Available</td>
+        </tr>
+    </table>
+
+    <h2>Opening Hours</h2>
+    <p>Monday to Sunday: 10 AM to 10 PM</p>
+
+    <h2>Contact Us</h2>
+    <p>Phone: 9876543210</p>
+    <p>Address: Main Road, Andhra Pradesh</p>
+</body>
+</html>

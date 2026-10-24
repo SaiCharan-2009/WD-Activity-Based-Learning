@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    margin: 20px;
+}
+
+.header {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+h2 {
+    color: navy;
+    border-bottom: 1px solid navy;
+}
+
+p, li {
+    font-size: 16px;
+}
